@@ -22,10 +22,17 @@ working at the intersection of Digital IC Design, VLSI, FPGA-based Computing, Co
 - **BS Electronics Engineering** — BUITEMS, Quetta, CGPA 3.50/4
   - Final Year Project: *Water Management and Distribution Control Using Soil Moisture Sensor*
 
-## 💼 Experience
+## 💼 Teaching & Academic Experience
 - **Technical Resource Person – Digital IC Design Training & Verification, NSHRDP** — GIKI *(May 2026 – Present)*
-- **Computer Engineer** — GIKI *(Sep 2024 – Present)*
+- **Computer Engineer** — GIKI *(Sep 2024 – Present)* Teaching and laboratory instruction in:
+   Digital Logic Design
+   Digital System Design
+   Digital Design & Verification
+   Computer Organization & Assembly Language (RISC-V)
+   Edge AI Systems
+   MicroProcessor Interfacing
 - **Lab Engineer / Academic Coordinator, ECE** — Capital University of Science and Technology (CUST), Islamabad *(Apr 2022 – Sep 2024)*
+
 
 ### Courses / Labs Taught
 Digital Logic Design · Digital System Design · Computer Organization & Assembly Language (RISC-V) · VLSI Design · Digital Design and Verification · RTL-to-GDS-II Flow · Microprocessor & Interfacing · Edge AI Systems
