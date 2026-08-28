@@ -26,9 +26,10 @@ Computing, Computer Architecture, and AI Hardware.
 ## 💻 Technical Skills
 
 - **HDL:** Verilog, SystemVerilog
+- **Cadence:** Virtuoso, Spectre, Genus, Xcelium
 - **FPGA:** Xilinx Vivado, Nexys A7
 - **Digital Design:** RTL Design, Verification, FSM, FIFO, CDC
-- **Computer Architecture:** RISC-V, Computer Organization
+- **Computer Architecture:** RISC-V, Computer Organization(Processors)
 - **Programming:** Python, C/C++
 - **AI/ML:** TensorFlow, TensorFlow Lite
 - **Embedded Systems:** Arduino, ESP32, ESP8266, PIC, STM32
